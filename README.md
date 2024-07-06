@@ -24,5 +24,5 @@ Data is collected using an Arduino setup where participants respond to memory te
   
 ## Research Poster
 <div align="center">
-  <img src="ResearchPoster.png" alt="alt text" />
+  <img src="ResearchPoster.png" alt="alt text" style="border: 5px solid black;" />
 </div>
