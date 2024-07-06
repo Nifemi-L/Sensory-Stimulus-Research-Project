@@ -23,6 +23,9 @@ Data is collected using an Arduino setup where participants respond to memory te
 - **Stimulus 2**: Continuous party noise played along with the clip from Stimulus 1.
   
 ## Research Poster
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
 <div align="center">
-  <img src="ResearchPoster.png" alt="alt text" style="border: 5px solid black;" />
+    <img src="ResearchPoster.png" alt="alt text" class="centered-image" />
 </div>
