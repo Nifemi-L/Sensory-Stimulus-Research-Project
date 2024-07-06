@@ -16,8 +16,7 @@ The primary research question addressed is:
 - There is an inverse linear relationship between the level of sensory stimulus and the accuracy of short-term memory recall.
 - Under no stimulus conditions, subjects showed 75% accuracy in recalling information. This accuracy decreased to 55% with a mild stimulus and further down to 33% under intense stimulus conditions.
 
-## How it Works
-### Data Collection
+## Data Collection
 Data is collected using an Arduino setup where participants respond to memory tests after being exposed to various levels of stimuli. The stimuli include:
 - **Stimulus 0**: No distractions.
 - **Stimulus 1**: A short, recognizable clip played before the question.
